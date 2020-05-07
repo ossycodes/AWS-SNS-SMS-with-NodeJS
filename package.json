@@ -1,0 +1,20 @@
+{
+  "name": "aws-sns-sms-with-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ossycodes",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.480.0",
+    "axios": "^0.19.2",
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.1",
+    "dotenv": "^8.0.0",
+    "express": "^4.15.2"
+  }
+}
